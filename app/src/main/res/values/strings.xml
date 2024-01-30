@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VariantFlavor</string>
+    <string name="free">You are using a free Version</string>
+    <string name="paid">You are using a paid Version</string>
+</resources>
